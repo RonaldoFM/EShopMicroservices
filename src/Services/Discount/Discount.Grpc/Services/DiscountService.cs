@@ -1,6 +1,6 @@
 ﻿using Discount.Grpc.Data;
 using Discount.Grpc.Models;
-using Discount.Grpc.Protos;
+using Discount.Grpc;
 using Grpc.Core;
 using Mapster;
 using Microsoft.EntityFrameworkCore;
